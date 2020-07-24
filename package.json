@@ -2,7 +2,7 @@
   "name": "hrw-web",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "huangruiwei <huangruiwei@gzkit.com.cn>",
+  "author": "huangruiwei",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
